@@ -1,2 +1,2 @@
 # GuiaLP
-Guias del curso lenguajes deprogramación en java
+Guias del curso lenguajes de programación (en java)
