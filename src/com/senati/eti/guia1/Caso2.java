@@ -9,7 +9,7 @@ public class Caso2 {
 		int x=0;
 		System.out.print("Ingrese un número : ");
 		x=sc.nextInt();
-		
+		sc.close();
 		System.out.println("----------------------");
 		System.out.println("El número ingresado es : "+x);
 		

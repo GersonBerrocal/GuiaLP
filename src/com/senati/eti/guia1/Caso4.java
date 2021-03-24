@@ -9,7 +9,7 @@ public class Caso4 {
 		num1=sc.nextFloat();
 		System.out.print("Ingrese el segundo número : ");
 		num2=sc.nextFloat();
-		
+		sc.close();
 		
 		System.out.println("---------------");
 		System.out.println("RESULTADOS");
