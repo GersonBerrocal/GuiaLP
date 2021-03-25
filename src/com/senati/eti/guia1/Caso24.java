@@ -12,7 +12,7 @@ public class Caso24 {
 		num2=sc.nextFloat();
 		System.out.print("Ingrese el tercer monto : ");
 		num3=sc.nextFloat();
-		
+		sc.close();
 		//ejercicios
 		float ej1=(float) (num1/5 + 0.2*num2);
 		float ej2=(float)((0.6*num3+num3)/2);
