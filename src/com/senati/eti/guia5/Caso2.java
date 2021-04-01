@@ -39,6 +39,8 @@ public class Caso2 {
 		System.out.println("6. Promedo...............: "+calc.Operar(6));
 		System.out.println("7. Suma de cuadrados.....: "+calc.Operar(7));
 		System.out.println("8. Diferencia porcentual.: "+calc.Operar(8)+"%");
+		System.out.println("9. Mayor.................: "+calc.Operar(9));
+		System.out.println("10. Menor................: "+calc.Operar(10));
 		
 	}
 }

@@ -49,6 +49,21 @@ public class Calculadora2 {
 				break;
 			case 8:
 				rp=100*(this.numero2-this.numero1)/this.numero1;
+				break;
+			case 9:
+				if(this.numero1>this.numero2) {
+					rp= this.numero1;
+				}
+				else {
+					rp= this.numero2;
+				}
+				break;
+			case 10:
+				if(this.numero1<this.numero2)
+					rp=this.numero1;
+				else
+					rp= this.numero2;
+				break;
 		}
 		return rp;
 	}
